@@ -1,5 +1,7 @@
 # fastapi_todo
 
+학번 / 이름
+2019202076 정수필
 
 #활용한 오픈소스 링크
 - google font
